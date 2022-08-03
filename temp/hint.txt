@@ -1,0 +1,1 @@
+This directory contains partial results of long-running processes to optimize computation time
