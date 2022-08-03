@@ -1,0 +1,5 @@
+pandas == 1.3.4
+matplotlib == 3.4.3
+pygments == 2.12.0
+gensim == 4.2.0
+pyldavis == 2.1.2
